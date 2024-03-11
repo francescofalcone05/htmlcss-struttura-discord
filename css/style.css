@@ -12,7 +12,7 @@
 }
 
 .padding{
-    padding: 3rem;
+    padding: 3rem 0;
 }
 
 
@@ -24,10 +24,6 @@
 header{
     background-color: aquamarine;
     padding: 1rem;
-}
-
-.header-p{
-    padding: 0 2.6rem;
 }
 
 .small-orange{
@@ -135,7 +131,7 @@ hr{
 /* seconda parte footer */
 .flex-space{
     display: flex;
-    width: 54rem;
+    width: 60rem;
     margin:0 auto;
     justify-content: space-between;
     min-height: 3rem;
