@@ -21,9 +21,13 @@
 }
 
 /* header */
-.acquamarine{
+header{
     background-color: aquamarine;
     padding: 1rem;
+}
+
+.header-p{
+    padding: 0 2.6rem;
 }
 
 .small-orange{
@@ -52,9 +56,9 @@
 .pink{
     background-color: rgb(233, 156, 169);
     align-self: center;
-    width: 50rem;
+    width: 45rem;
     height: 20rem;
-    margin: 1rem auto;
+    margin: 0.5rem auto;
 }
 
 /* seconda sezione */
@@ -136,10 +140,11 @@ hr{
     justify-content: space-between;
     min-height: 3rem;
     align-items: center;
+    background-color: aquamarine;
     
 }
 
 .end{
     background-color: plum;
-    margin: 0.2rem 0;
+    padding: 0.2rem;
 }
