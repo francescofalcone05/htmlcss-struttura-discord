@@ -7,19 +7,22 @@
 /* inizio contenuto */
 .flex-container{
     display: flex;
-    justify-content: space-between;
     width: 60rem;
     margin:0 auto;
+}
+
+.padding{
     padding: 3rem;
+}
+
+
+.column{
+    border: 0.5px dashed;
 }
 
 /* header */
 .acquamarine{
     background-color: aquamarine;
-}
-
-.column{
-    border: 0.5px dashed;
 }
 
 .small-orange{
@@ -44,7 +47,7 @@
 }
 
 .pink{
-    background-color: pink;
+    background-color: rgb(233, 156, 169);
     align-self: center;
     width: 50rem;
     height: 20rem;
@@ -80,3 +83,38 @@
 /* quarta sezione
 momentaneamente vuota */
 
+
+/* quinta sezione */
+.green-blue{
+    background-color: green;
+    width: 100%;
+    min-height: 35rem;
+}
+
+/* footer */
+footer{
+    background-color: rgb(48, 47, 47);
+}
+
+/* prima parte footer */
+.purple{
+    background-color: purple;
+    width: 100%;
+    min-height: 30rem;
+}
+
+.water{
+    background-color: greenyellow;
+    width: calc(10% * 4);
+    min-height: 30rem;
+
+}
+
+.flex-undred{
+    display: flex;
+    width: 30rem;
+    min-height: 30rem;
+    margin:0 auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
