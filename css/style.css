@@ -23,18 +23,21 @@
 /* header */
 .acquamarine{
     background-color: aquamarine;
+    padding: 1rem;
 }
 
 .small-orange{
     width: 25%;
     background-color: orange;
+    padding: 0.3rem;
+
 }
 
 .big-orange{
     width: 50%;
     text-align: center;
     background-color: orange;
-
+    padding: 0.3rem;
 }
 
 .login{
@@ -51,7 +54,7 @@
     align-self: center;
     width: 50rem;
     height: 20rem;
-    margin: 2rem auto;
+    margin: 1rem auto;
 }
 
 /* seconda sezione */
@@ -115,6 +118,28 @@ footer{
     display: flex;
     width: 60rem;
     margin:0 auto;
-    justify-content: space-between;
 }
 
+.last-padding{
+    padding: 1rem 3rem 3rem 3rem;
+}
+
+hr{
+    margin-bottom: 2rem;
+}
+
+/* seconda parte footer */
+.flex-space{
+    display: flex;
+    width: 54rem;
+    margin:0 auto;
+    justify-content: space-between;
+    min-height: 3rem;
+    align-items: center;
+    
+}
+
+.end{
+    background-color: plum;
+    margin: 0.2rem 0;
+}
