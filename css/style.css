@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.acquamarine{
+    background-color: aquamarine;
+    margin:0;
+}
+
+/* inizio contenuto */
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    width: 60rem;
+    margin: 2rem auto;
+}
+
+/* header */
+.first{
+    background-color: orange;
+}
+
+.column{
+    border: 0.5px dashed;
+}
+
+.small-orange{
+    width: 25%;
+}
+
+.big-orange{
+    width: 50%;
+    text-align: center;
+}
+
+.login{
+    text-align: end;
+}
+
+/* prima sezione */
+.blue{
+    background-color: blue;
+}
+
+.pink{
+    background-color: pink;
+    align-self: center;
+    width: 50rem;
+    height: 20rem;
+    margin: 2rem auto;
+}
+
+/* seconda sezione */
+.white{
+    background-color: white;
+}
+
+.big-blue{
+    background-color: rgb(50, 140, 182);
+    width: 60%;
+    min-height: 30rem;
+}
+
+.big-pink{
+    background-color: palevioletred;
+    width: 40%;
+    min-height: 25rem;
+}
