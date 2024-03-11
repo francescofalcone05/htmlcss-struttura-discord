@@ -99,22 +99,22 @@ footer{
 /* prima parte footer */
 .purple{
     background-color: purple;
-    width: 100%;
+    width: 21rem;
     min-height: 30rem;
 }
 
 .water{
     background-color: greenyellow;
-    width: calc(10% * 4);
+    width: 10rem;
     min-height: 30rem;
+    border: 0.5px dashed white;
 
 }
 
 .flex-undred{
     display: flex;
-    width: 30rem;
-    min-height: 30rem;
+    width: 60rem;
     margin:0 auto;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    justify-content: space-between;
 }
+
