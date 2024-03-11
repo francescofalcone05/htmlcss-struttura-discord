@@ -4,21 +4,19 @@
     padding: 0;
 }
 
-.acquamarine{
-    background-color: aquamarine;
-}
-
 /* inizio contenuto */
 .flex-container{
     display: flex;
     justify-content: space-between;
     width: 60rem;
-    margin: 2rem auto;
-    padding: 2rem;
+    margin:0 auto;
+    padding: 3rem;
 }
 
 /* header */
-
+.acquamarine{
+    background-color: aquamarine;
+}
 
 .column{
     border: 0.5px dashed;
@@ -74,3 +72,11 @@
 .gray{
     background-color:gray;
 }
+
+.reverse{
+    flex-direction: row-reverse;
+}
+
+/* quarta sezione
+momentaneamente vuota */
+
