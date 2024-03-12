@@ -7,7 +7,7 @@
 /* inizio contenuto */
 .flex-container{
     display: flex;
-    width: 60rem;
+    width: 70%;
     margin:0 auto;
 }
 
@@ -125,7 +125,7 @@ hr{
 /* seconda parte footer */
 .flex-space{
     display: flex;
-    width: 60rem;
+    width: 70%;
     margin:0 auto;
     justify-content: space-between;
     min-height: 3rem;
