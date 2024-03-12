@@ -102,20 +102,20 @@ footer{
 /* prima parte footer */
 .purple{
     background-color: purple;
-    width: 21rem;
+    width: 40%;
     min-height: 30rem;
 }
 
 .water{
     background-color: greenyellow;
-    width: 10rem;
+    width: 100%;
     min-height: 30rem;
     border: 0.5px dashed white;
 
 }
 
 .last-padding{
-    padding: 1rem 3rem 3rem 3rem;
+    padding: 1rem 0 3rem 0;
 }
 
 hr{
