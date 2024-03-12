@@ -114,12 +114,6 @@ footer{
 
 }
 
-.flex-undred{
-    display: flex;
-    width: 60rem;
-    margin:0 auto;
-}
-
 .last-padding{
     padding: 1rem 3rem 3rem 3rem;
 }
