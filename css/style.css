@@ -56,7 +56,7 @@ header{
     background-color: rgb(233, 156, 169);
     align-self: center;
     width: 45rem;
-    height: 20rem;
+    min-height: 20rem;
     margin: 0.5rem auto;
 }
 
